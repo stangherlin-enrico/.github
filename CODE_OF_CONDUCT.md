@@ -1,4 +1,12 @@
+<div align="center">
+
 # Code of Conduct
+
+[![Contributor Covenant](https://img.shields.io/badge/Contributor_Covenant-2.1-4BAAAA?style=flat-square&logo=contributorcovenant&logoColor=white)](https://www.contributor-covenant.org)
+
+</div>
+
+---
 
 ## Our pledge
 

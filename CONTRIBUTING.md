@@ -1,6 +1,16 @@
+<div align="center">
+
 # Contributing
 
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-3B82F6?style=flat-square)](https://github.com/stangherlin-enrico)
+[![Issues welcome](https://img.shields.io/badge/issues-welcome-3B82F6?style=flat-square)](https://github.com/stangherlin-enrico)
+[![Code of Conduct](https://img.shields.io/badge/code_of_conduct-Contributor_Covenant_2.1-4BAAAA?style=flat-square)](CODE_OF_CONDUCT.md)
+
 Thank you for taking the time to contribute. Here are the guidelines I follow across my repositories.
+
+</div>
+
+---
 
 ## Getting started
 
@@ -36,6 +46,6 @@ Use the **Bug report** issue template. Include steps to reproduce, expected vs a
 
 Use the **Feature request** issue template. Explain the problem you are trying to solve before proposing a solution.
 
-## Code of Conduct
+---
 
 By participating, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
