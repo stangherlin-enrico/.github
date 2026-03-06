@@ -51,13 +51,3 @@ currently studying Computer Science at the University of Padua.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-374151?style=flat-square)
 ![OOP](https://img.shields.io/badge/OOP-374151?style=flat-square)
-
----
-
-## GitHub stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=stangherlin-enrico&show_icons=true&hide_border=true&count_private=true&title_color=3B82F6&icon_color=3B82F6&text_color=374151" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stangherlin-enrico&layout=compact&hide_border=true&title_color=3B82F6&text_color=374151&langs_count=6" />
-</div>
