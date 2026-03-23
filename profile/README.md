@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Enrico+Stangherlin;Software+Developer;CS+student+%40+UniPD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=F59E0B&center=true&vCenter=true&width=660&lines=Hi%2C+I%27m+Enrico+Stangherlin;Software+Developer+%C2%B7+CS+%40+UniPD;Building+end-to-end%2C+from+scratch." alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 Software developer with two years of professional experience,<br/>
 currently studying Computer Science at the University of Padua.
@@ -11,15 +11,31 @@ currently studying Computer Science at the University of Padua.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-stangherlin--enrico.github.io-3B82F6?style=flat-square&logo=github&logoColor=white)](https://stangherlin-enrico.github.io)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enrico_Stangherlin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrico-stangherlin-82b8a31b8/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-stangherlin--enrico.github.io-F59E0B?style=flat-square&logo=github&logoColor=white)](https://stangherlin-enrico.github.io)&nbsp;&nbsp;
+[![Blog](https://img.shields.io/badge/Blog-/blog-F59E0B?style=flat-square&logo=rss&logoColor=white)](https://stangherlin-enrico.github.io/blog)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enrico_Stangherlin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrico-stangherlin-82b8a31b8/)&nbsp;&nbsp;
 ![Location](https://img.shields.io/badge/Castello_di_Godego,_Italy-6B7280?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
 ---
 
+## What I'm building
+
+| Project | What it is | Status |
+|---|---|:---:|
+| **[StangaNetLib](https://github.com/StangaNet)** | Suite of 9 composable .NET libraries built test-first — Clean Architecture building blocks with zero external coupling and full unit + integration test coverage | released |
+| **Filarys** | Agri-food supply chain platform covering field-to-shelf traceability, IoT integration, GIS, and EU regulatory compliance | in progress |
+| **Cross-platform product** | Consumer-facing product built solo across all layers — .NET 9 backend, native Android & iOS clients, Blazor admin panel | in progress |
+| **[Personal Portfolio](https://github.com/stangherlin-enrico/stangherlin-enrico.github.io)** | This website — React, Vite, Tailwind, MDX, GitHub Actions | released |
+
+---
+
 ## Tech stack
+
+<table>
+<tr>
+<td valign="top">
 
 **Backend**
 
@@ -32,8 +48,12 @@ currently studying Computer Science at the University of Padua.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+</td>
+<td valign="top">
+
 **Frontend**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
@@ -46,8 +66,17 @@ currently studying Computer Science at the University of Padua.
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
+</td>
+<td valign="top">
+
 **Practices**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-374151?style=flat-square)
+![TDD](https://img.shields.io/badge/TDD-374151?style=flat-square)
+![CQRS](https://img.shields.io/badge/CQRS-374151?style=flat-square)
 ![OOP](https://img.shields.io/badge/OOP-374151?style=flat-square)
+
+</td>
+</tr>
+</table>

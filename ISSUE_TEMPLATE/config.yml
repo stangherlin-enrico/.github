@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Portfolio & Blog
+    url: https://stangherlin-enrico.github.io
+    about: Visit the portfolio or blog for general information about my projects.
+  - name: Security vulnerability
+    url: https://github.com/stangherlin-enrico/.github/blob/main/SECURITY.md
+    about: Please read the security policy before reporting a vulnerability.

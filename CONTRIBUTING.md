@@ -2,8 +2,8 @@
 
 # Contributing
 
-[![PRs welcome](https://img.shields.io/badge/PRs-welcome-3B82F6?style=flat-square)](https://github.com/stangherlin-enrico)
-[![Issues welcome](https://img.shields.io/badge/issues-welcome-3B82F6?style=flat-square)](https://github.com/stangherlin-enrico)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-F59E0B?style=flat-square)](https://github.com/stangherlin-enrico)
+[![Issues welcome](https://img.shields.io/badge/issues-welcome-F59E0B?style=flat-square)](https://github.com/stangherlin-enrico)
 [![Code of Conduct](https://img.shields.io/badge/code_of_conduct-Contributor_Covenant_2.1-4BAAAA?style=flat-square)](CODE_OF_CONDUCT.md)
 
 Thank you for taking the time to contribute. Here are the guidelines I follow across my repositories.
